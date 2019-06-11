@@ -6,11 +6,11 @@
 `git clone https://github.com/spring-projects/spring-fu`  
 
 
-[https://www.oracle.com/technetwork/java/javase/downloads](https://www.oracle.com/technetwork/java/javase/downloads)
-[https://jdk.java.net/11/](https://jdk.java.net/11/)
-[https://gradle.org](https://gradle.org)
-[https://maven.apache.org](https://maven.apache.org)
-[https://www.graalvm.org](https://www.graalvm.org)
+[https://www.oracle.com/technetwork/java/javase/downloads](https://www.oracle.com/technetwork/java/javase/downloads)  
+[https://jdk.java.net/11/](https://jdk.java.net/11/)  
+[https://gradle.org](https://gradle.org)  
+[https://maven.apache.org](https://maven.apache.org)  
+[https://www.graalvm.org](https://www.graalvm.org)  
 
 
 
