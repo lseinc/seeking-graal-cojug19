@@ -1,5 +1,6 @@
 ### Resources used in demo
 
+`git clone https://github.com/graalvm/graalvm-demos.git`  
 `git clone https://github.com/chrisseaton/graalvm-ten-things.git`  
 `git clone https://github.com/graalvm/graal-js-jdk11-maven-demo.git`  
 `git clone https://github.com/axel22/streams-examples.git`  
